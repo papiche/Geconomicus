@@ -119,3 +119,10 @@ Every time you modify RST files, you must update translation files
 To do after the standard french build. Does not generate cards/banknotes.
 
 
+# Version "real time" / "real life"
+
+https://forum.monnaie-libre.fr/t/experimenter-le-paradygme-du-changement-de-civilisation-geconomicus-dans-la-vraie-vie/19994
+
+* RAPPORT
+https://ipfs.copylaradio.com/ipfs/QmUtGpGeMZvwp47ftqebVmoFWCmvroy5wEtWsKvWvDWJpR/
+
